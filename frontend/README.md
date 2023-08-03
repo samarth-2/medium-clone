@@ -1,4 +1,4 @@
-# [Meduim-Clone](https://medium-web-app.netlify.app/)
+
 ## Full Stack Project -- MERN Stack
 
 <h3>Here You Can Read Blogs and also Write Your Own Blogs</h3>
@@ -13,7 +13,7 @@
 <li>Like Blog | Dislike Blog</li>
 <li>Follow A User | Unfollow A User</li>
 </ul>
-<h5>Backend Repo Link: https://github.com/akashkmt/medium-web-app-backend</h5>
+
 <br />
 
 <img src="https://user-images.githubusercontent.com/97526754/182702429-1d811c77-b1b2-45fa-b4ff-754e821f67ea.png" />
